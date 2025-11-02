@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LDEFontSize</key>
+	<real>10</real>
+	<key>LDEShowLines</key>
+	<true/>
+	<key>LDEShowReturn</key>
+	<true/>
+	<key>LDEShowSpace</key>
+	<true/>
+	<key>LDEWrapLine</key>
+	<true/>
+</dict>
+</plist>
